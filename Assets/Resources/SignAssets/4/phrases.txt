@@ -1,0 +1,8 @@
+"spider_under_blue_chair","spider_on_white_wall","
+spider_in_orange_flowers","spider_in_green_box","spider_in_blue_box","
+snake_under_blue_flowers","snake_under_blue_chair","cat_under_orange_chair","
+snake_under_black_chair","snake_in_green_wagon","cat_under_blue_bed","
+cat_on_green_wall","cat_on_blue_bed","cat_behind_orange_bed","
+alligator_under_green_bed","alligator_on_blue_wall","alligator_in_orange_flowers","
+alligator_behind_orange_wagon","alligator_behind_blue_wagon","
+alligator_behind_black_wall"

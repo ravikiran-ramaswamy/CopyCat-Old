@@ -1,0 +1,6 @@
+"phrases.txt","snake_under_chair","spider_under_wagon","spider_under_bed","
+spider_on_wall","spider_on_chair","spider_in_box","snake_under_bed","snake_on_box","
+snake_in_flowers","snake_behind_wall","cat_under_chair","cat_on_wall","
+cat_behind_flowers","cat_behind_box","cat_behind_bed","alligator_on_bed","
+alligator_in_wagon","alligator_in_box","alligator_behind_wall","
+alligator_behind_chair"
