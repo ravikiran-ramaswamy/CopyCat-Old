@@ -112,7 +112,7 @@ public class RoomLoader : MonoBehaviour {
         iris.transform.localPosition = irisStartPosition;
 
         //Get the video corresponding to the randomly selected phrase
-        hintVideo.GetComponent<VideoPlayer>().url = @"Assets\Resources\SignAssets\" + phraseLength.ToString() + @"\" + currentPhrase + @"\" + currentPhrase + ".mp4";
+        hintVideo.GetComponent<VideoPlayer>().url = @"Assets/Resources/SignAssets/" + phraseLength.ToString() + @"/" + currentPhrase + @"/" + currentPhrase + ".mp4";
         hintVideo.GetComponent<VideoPlayer>().isLooping = false;
 
         //To show first frame of video
